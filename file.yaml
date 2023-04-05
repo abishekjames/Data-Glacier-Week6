@@ -1,0 +1,26 @@
+file_type: csv
+dataset_name: testfile
+file_name: carsales
+table_name: sales
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - brand
+    - name
+    - bodyType
+    - color
+    - fuelType
+    - year
+    - mileage
+    - transmission
+    - power
+    - price
+    - vehicleConfiguration
+    - engineName
+    - engineDisplacement
+    - date
+    - location
+    - link
+    - description
+    - parsedate
